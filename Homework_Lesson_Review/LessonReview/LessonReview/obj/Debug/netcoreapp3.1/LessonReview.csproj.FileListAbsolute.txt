@@ -1,0 +1,14 @@
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Generics\Homework_Lesson_Review\LessonReview\LessonReview\bin\Debug\netcoreapp3.1\LessonReview.exe
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Generics\Homework_Lesson_Review\LessonReview\LessonReview\bin\Debug\netcoreapp3.1\LessonReview.deps.json
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Generics\Homework_Lesson_Review\LessonReview\LessonReview\bin\Debug\netcoreapp3.1\LessonReview.runtimeconfig.json
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Generics\Homework_Lesson_Review\LessonReview\LessonReview\bin\Debug\netcoreapp3.1\LessonReview.runtimeconfig.dev.json
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Generics\Homework_Lesson_Review\LessonReview\LessonReview\bin\Debug\netcoreapp3.1\LessonReview.dll
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Generics\Homework_Lesson_Review\LessonReview\LessonReview\bin\Debug\netcoreapp3.1\LessonReview.pdb
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Generics\Homework_Lesson_Review\LessonReview\LessonReview\obj\Debug\netcoreapp3.1\LessonReview.csproj.AssemblyReference.cache
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Generics\Homework_Lesson_Review\LessonReview\LessonReview\obj\Debug\netcoreapp3.1\LessonReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Generics\Homework_Lesson_Review\LessonReview\LessonReview\obj\Debug\netcoreapp3.1\LessonReview.AssemblyInfoInputs.cache
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Generics\Homework_Lesson_Review\LessonReview\LessonReview\obj\Debug\netcoreapp3.1\LessonReview.AssemblyInfo.cs
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Generics\Homework_Lesson_Review\LessonReview\LessonReview\obj\Debug\netcoreapp3.1\LessonReview.csproj.CoreCompileInputs.cache
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Generics\Homework_Lesson_Review\LessonReview\LessonReview\obj\Debug\netcoreapp3.1\LessonReview.dll
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Generics\Homework_Lesson_Review\LessonReview\LessonReview\obj\Debug\netcoreapp3.1\LessonReview.pdb
+C:\Users\Sadiq\Desktop\P130\C#\Homework_Generics\Homework_Lesson_Review\LessonReview\LessonReview\obj\Debug\netcoreapp3.1\LessonReview.genruntimeconfig.cache
